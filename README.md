@@ -19,7 +19,7 @@ Veja mais no meu [Portfolio](https://portfolio-weslley-kampa.netlify.app/) ou [I
 
 ## 📈 Formação e Certificações
 - **Análise e Desenvolvimento de Sistemas** - UNIFACEAR (Cursando)
-- **Certificações Alura: React, JavaScript, CSS, HTML
+- **Certificações Alura:** React, JavaScript, CSS, HTML
 
 - ## 📫 Conecte-se comigo!
 [LinkedIn](https://www.linkedin.com/in/weslley-luiz-kampa) | [GitHub](https://github.com/agr3w) | E-mail: kampaweslley@gmail.com
