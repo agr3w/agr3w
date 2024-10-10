@@ -19,7 +19,6 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 
 ### **Frameworks e Bibliotecas**
 - React.js
-- Bootstrap (ou qualquer outra biblioteca que você use)
 
 ### **Ferramentas e Plataformas**
 - Git e GitHub
@@ -33,12 +32,12 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 
 ## 📂 Projetos Destacados
 Aqui estão alguns dos meus projetos mais significativos:
-- [**RPG Organizer**](link-do-projeto): Um aplicativo para organizar campanhas de RPG, com recursos como gerenciamento de personagens e histórias.
-- [**Ludo Fora Do Mundo**](link-do-projeto): Um jogo desenvolvido em C, onde implementei a lógica do jogo e a interface do usuário.
-- [**Loja Games**](link-do-projeto): Plataforma de vendas de jogos em React.js, com foco na experiência do usuário e eficiência.
+- [**RPG Organizer**](https://test-b6bc2.web.app/): Um aplicativo para organizar campanhas de RPG, com recursos como gerenciamento de personagens e histórias.
+- [**Ludo Fora Do Mundo**](https://github.com/agr3w/Ludo_fora_do_mundo): Um jogo desenvolvido em C, onde implementei a lógica do jogo e a interface do usuário, meu primeiro projeto da faculdade.
+- [**Loja Games**]([link-do-projeto](https://lojagames-refatorado.vercel.app/)): Plataforma de vendas de jogos em React.js, com foco na experiência do usuário e eficiência.
 
-### **Demo dos Projetos**
-- Confira uma demonstração do meu trabalho em [GitHub Pages](link-da-demo) ou [Netlify](link-da-demo) para projetos publicados.
+### **Portfolio**
+- Confira uma demonstração do meu trabalho em meu [Portfolio]((https://portfolio-weslley-kampa.netlify.app/)) ou conheça meu [Instagram](https://www.instagram.com/weslley_kampa/) para projetos publicados.
 
 ## 🧑‍💻 Habilidades e Competências
 - **Resolução de Problemas**: Habilidade em identificar e solucionar problemas de forma eficiente.
