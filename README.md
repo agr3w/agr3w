@@ -9,7 +9,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 - **Linguagens**: JavaScript, TypeScript, HTML, CSS, C, Java
 - **Frameworks**: React.js
 
-- ## 📂 Projetos Destacados
+## 📂 Projetos Destacados
 - [**RPG Organizer**](https://test-b6bc2.web.app/): App para organizar campanhas de RPG.
 - [**Ludo Fora Do Mundo**](https://github.com/agr3w/Ludo_fora_do_mundo): Jogo em C, desenvolvido na faculdade.
 - [**Loja Games**](https://lojagames-refatorado.vercel.app/): Plataforma de vendas de jogos em React.js.
