@@ -34,7 +34,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 Aqui estão alguns dos meus projetos mais significativos:
 - [**RPG Organizer**](https://test-b6bc2.web.app/): Um aplicativo para organizar campanhas de RPG, com recursos como gerenciamento de personagens e histórias.
 - [**Ludo Fora Do Mundo**](https://github.com/agr3w/Ludo_fora_do_mundo): Um jogo desenvolvido em C, onde implementei a lógica do jogo e a interface do usuário, meu primeiro projeto da faculdade.
-- [**Loja Games**]([link-do-projeto](https://lojagames-refatorado.vercel.app/)): Plataforma de vendas de jogos em React.js, com foco na experiência do usuário e eficiência.
+- [**Loja Games**](https://lojagames-refatorado.vercel.app/): Plataforma de vendas de jogos em React.js, com foco na experiência do usuário e eficiência.
 
 ### **Portfolio**
 - Confira uma demonstração do meu trabalho em meu [Portfolio]((https://portfolio-weslley-kampa.netlify.app/)) ou conheça meu [Instagram](https://www.instagram.com/weslley_kampa/) para projetos publicados.
