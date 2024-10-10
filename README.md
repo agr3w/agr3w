@@ -37,7 +37,7 @@ Aqui estão alguns dos meus projetos mais significativos:
 - [**Loja Games**](https://lojagames-refatorado.vercel.app/): Plataforma de vendas de jogos em React.js, com foco na experiência do usuário e eficiência.
 
 ### **Portfolio**
-- Confira uma demonstração do meu trabalho em meu [Portfolio]((https://portfolio-weslley-kampa.netlify.app/)) ou conheça meu [Instagram](https://www.instagram.com/weslley_kampa/) para projetos publicados.
+- Confira uma demonstração do meu trabalho em meu [Portfolio](https://portfolio-weslley-kampa.netlify.app/) ou conheça meu [Instagram](https://www.instagram.com/weslley_kampa/) para projetos publicados.
 
 ## 🧑‍💻 Habilidades e Competências
 - **Resolução de Problemas**: Habilidade em identificar e solucionar problemas de forma eficiente.
