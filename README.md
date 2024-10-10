@@ -1,1 +1,0 @@
-# weslleykampa.github.io
