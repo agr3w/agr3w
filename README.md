@@ -14,7 +14,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 - [**Ludo Fora Do Mundo**](https://github.com/agr3w/Ludo_fora_do_mundo): Jogo em C, desenvolvido na faculdade.
 - [**Loja Games**](https://lojagames-refatorado.vercel.app/): Plataforma de vendas de jogos em React.js.
 
-### **Portfolio**
+### 💻 **Portfolio**
 Veja mais no meu [Portfolio](https://portfolio-weslley-kampa.netlify.app/) ou [Instagram](https://www.instagram.com/weslley_kampa/).
 
 ## 📈 Formação e Certificações
