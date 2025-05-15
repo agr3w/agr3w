@@ -1,28 +1,38 @@
 # Olá, eu sou **Weslley Luiz Kampa**! 👋
 
+[![Portfolio Badge](https://img.shields.io/badge/🚀_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://portfolio-weslley-kampa.netlify.app/)
+[![React Vite Badge](https://img.shields.io/badge/React_Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![GitHub Followers](https://img.shields.io/github/followers/agr3w?label=Follow%20Me&style=for-the-badge&color=2ECC71)](https://github.com/agr3w)
+
 Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e desenvolvimento web.
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agr3w&layout=donut&theme=merko)](https://github.com/agr3w)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agr3w&layout=donut&theme=merko&hide=html,css)
 
 ## 🚀 Sobre Mim
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFACEAR, apaixonado por **JavaScript**, **React.js** e **desenvolvimento web**. Sempre em busca de colaborar e aprender com novas tecnologias!
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFACEAR, apaixonado por **JavaScript**, **React.js** e **desenvolvimento web**. 
 
-## 🛠️ Tecnologias
-- **Linguagens**: JavaScript, TypeScript, HTML, CSS, C, Java
-- **Frameworks**: React.js
+**Atualizações Técnicas:**
+- ✅ Domínio em **Vite** para projetos React modernos
+- ✅ **CSS-in-JS:** Styled Components, Emotion ou CSS Modules
+- ✅ **Firebase:** Autenticação e Firestore
 
-## 📂 Projetos Destacados
-[![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=Ludo_fora_do_mundo&theme=merko)](https://github.com/agr3w/Ludo_fora_do_mundo)
+## 🛠️ Tech Stack
+![Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,firebase,git)
+
+## 📂 Projetos Destacados (Vite Powered ⚡)
+[![Ludo Fora Do Mundo](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=Ludo_fora_do_mundo&theme=merko&show_owner=true)](https://github.com/agr3w/Ludo_fora_do_mundo)
 [![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=lojagamesrefatorado&theme=merko)](https://github.com/agr3w/lojagames-refatorado)
-
-### 💻 **Portfolio**
-Veja mais no meu [Portfolio](https://portfolio-weslley-kampa.netlify.app/) ou [Instagram](https://www.instagram.com/weslley_kampa/).
 
 ## 📈 Formação e Certificações
 - **Análise e Desenvolvimento de Sistemas** - UNIFACEAR (Cursando)
-- **Certificações Alura:** React, JavaScript, CSS, HTML
+- **Certificações Alura:** 
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-- ## 📫 Conecte-se comigo!
-[LinkedIn](https://www.linkedin.com/in/weslley-luiz-kampa) | [GitHub](https://github.com/agr3w) | E-mail: kampaweslley@gmail.com
+## 📫 Conecte-se comigo!
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/weslley-luiz-kampa)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/weslley_kampa/)
+[![Instagram](https://skillicons.dev/icons?i=gmail)](kampaweslley@gmail.com)
+
