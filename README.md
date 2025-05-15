@@ -8,7 +8,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agr3w&layout=donut&theme=merko&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agr3w&layout=donut&theme=merko)
 
 ## 🚀 Sobre Mim
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFACEAR, apaixonado por **JavaScript**, **React.js** e **desenvolvimento web**. 
