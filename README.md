@@ -2,6 +2,10 @@
 
 Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e desenvolvimento web.
 
+## 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agr3w&layout=donut&theme=merko)](https://github.com/agr3w)
+
 ## 🚀 Sobre Mim
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFACEAR, apaixonado por **JavaScript**, **React.js** e **desenvolvimento web**. Sempre em busca de colaborar e aprender com novas tecnologias!
 
@@ -10,9 +14,8 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 - **Frameworks**: React.js
 
 ## 📂 Projetos Destacados
-- [**RPG Organizer**](https://test-b6bc2.web.app/): App para organizar campanhas de RPG.
-- [**Ludo Fora Do Mundo**](https://github.com/agr3w/Ludo_fora_do_mundo): Jogo em C, desenvolvido na faculdade.
-- [**Loja Games**](https://lojagames-refatorado.vercel.app/): Plataforma de vendas de jogos em React.js.
+[![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=Ludo_fora_do_mundo&theme=merko)](https://github.com/agr3w/Ludo_fora_do_mundo)
+[![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=lojagamesrefatorado&theme=merko)](https://github.com/agr3w/lojagames-refatorado)
 
 ### 💻 **Portfolio**
 Veja mais no meu [Portfolio](https://portfolio-weslley-kampa.netlify.app/) ou [Instagram](https://www.instagram.com/weslley_kampa/).
