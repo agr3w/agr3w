@@ -34,5 +34,5 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 ## 📫 Conecte-se comigo!
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/weslley-luiz-kampa)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/weslley_kampa/)
-[![Instagram](https://skillicons.dev/icons?i=gmail)](kampaweslley@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kampaweslley@gmail.com)
 
