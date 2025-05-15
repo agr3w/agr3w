@@ -21,7 +21,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 ## 🛠️ Tech Stack
 ![Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,firebase,git)
 
-## 📂 Projetos Destacados (Vite Powered ⚡)
+## 📂 Projetos Destacados
 [![Ludo Fora Do Mundo](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=Ludo_fora_do_mundo&theme=merko&show_owner=true)](https://github.com/agr3w/Ludo_fora_do_mundo)
 [![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=lojagamesrefatorado&theme=merko)](https://github.com/agr3w/lojagames-refatorado)
 
