@@ -22,7 +22,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 ![Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,firebase,git)
 
 ## 📂 Projetos Destacados
-[![Ludo Fora Do Mundo](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=Ludo_fora_do_mundo&theme=merko&show_owner=true)](https://github.com/agr3w/Ludo_fora_do_mundo)
+[![LotoFacil](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=LotoFacil&theme=merko&show_owner=true)](https://github.com/agr3w/LotoFacil)
 [![Loja Games Refatorado](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=lojagamesrefatorado&theme=merko&showowner=true)](https://github.com/agr3w/LojaGamesRefatorado)
 
 ## 📈 Formação e Certificações
