@@ -23,7 +23,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 
 ## 📂 Projetos Destacados
 [![Ludo Fora Do Mundo](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=Ludo_fora_do_mundo&theme=merko&show_owner=true)](https://github.com/agr3w/Ludo_fora_do_mundo)
-[![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=lojagamesrefatorado&theme=merko)](https://github.com/agr3w/lojagames-refatorado)
+[![Loja Games Refatorado](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=lojagamesrefatorado&theme=merko&showowner=true)](https://github.com/agr3w/LojaGamesRefatorado)
 
 ## 📈 Formação e Certificações
 - **Análise e Desenvolvimento de Sistemas** - UNIFACEAR (Cursando)
