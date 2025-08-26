@@ -22,8 +22,8 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 ![Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,firebase,git)
 
 ## 📂 Projetos Destacados
-[![LotoFacil](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=LotoFacil&theme=merko&show_owner=true)](https://github.com/agr3w/LotoFacil)
-[![Neon Genesis](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=Neon_Genesis&theme=merko&showowner=true)](https://github.com/agr3w/Neon_Genesis)
+[![LotoFacil](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=LotoFacil&theme=merko)](https://github.com/agr3w/LotoFacil)
+[![Neon Genesis](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=Neon_Genesis&theme=merko)](https://github.com/agr3w/Neon_Genesis)
 
 ## 📈 Formação e Certificações
 - **Análise e Desenvolvimento de Sistemas** - UNIFACEAR (Cursando)
