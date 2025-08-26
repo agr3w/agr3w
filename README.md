@@ -23,7 +23,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos de programação e
 
 ## 📂 Projetos Destacados
 [![LotoFacil](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=LotoFacil&theme=merko&show_owner=true)](https://github.com/agr3w/LotoFacil)
-[![Loja Games Refatorado](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=lojagamesrefatorado&theme=merko&showowner=true)](https://github.com/agr3w/LojaGamesRefatorado)
+[![Neon Genesis](https://github-readme-stats.vercel.app/api/pin/?username=agr3w&repo=Neon_Genesis&theme=merko&showowner=true)](https://github.com/agr3w/Neon_Genesis)
 
 ## 📈 Formação e Certificações
 - **Análise e Desenvolvimento de Sistemas** - UNIFACEAR (Cursando)
